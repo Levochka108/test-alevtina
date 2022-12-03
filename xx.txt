@@ -1,3 +1,6 @@
 hi
 hi)
 this branch testing
+int a = 4, b = 5;
+Console.Write($"{a + b}");
+// просто пример вывода в консоли на языке C#
